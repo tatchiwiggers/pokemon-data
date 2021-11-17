@@ -1,0 +1,49 @@
+header {
+  background-color: #BF011E;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+}
+
+header img {
+  height: 6rem;
+}
+
+main {
+  min-height: 100vh;
+  background-color: #F0E2E4;
+  padding: 1rem 0;
+}
+
+.filter-type {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem 1rem;
+}
+
+.card .card-body .card-badges {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+}
+
+footer {
+  background-color: #BF011E;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+footer img {
+  height: 2rem;
+}
+
+footer span {
+  font-size: 1.3rem;
+}
