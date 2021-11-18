@@ -18,10 +18,6 @@
 
 <br>
 
-# 📚 Preâmbulo
-
-Segundo um [estudo da IBM](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=WRL12345USEN), 90% dos dados que existem hoje foram criados durante os últimos dois anos. A cada dia geramos 2,5 trilhões de bytes de dados, uma cifra sem precedentes. Apesar disso, os dados por sozinhos são de pouca utilidade. Para que essas grandes quantidades de dados se convertam em **informação** fácil de ler para os usuários, temos que entendê-los e processá-los. Uma maneira simples de se fazer isso seria criando *interfaces* e *visualizações* legíveis e amigáveis para o usuário.
-
 # 🗒️ Resumo do projeto
 
 Neste projeto **você desenvolverá uma *página web* para visualizar um *conjunto (set) de dados*** que se adeque ao que seu usuário necessita. Entenda quem é seu usuário e o que ele necessita saber ou ver exatamente; assim já poderá criar uma interface que o ajude a interagir e entender melhor os dados. Estes são os dados que propomos:
