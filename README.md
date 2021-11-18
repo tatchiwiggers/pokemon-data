@@ -125,8 +125,8 @@ Features/características extras sugeridas:
 
 ## Pokémon Data
 
-- [pokemon.js](https://github.com/Jumori/pokemon-data/src/data/pokemon.js)
-- [pokemon.json](https://github.com/Jumori/pokemon-data/src/data/pokemon.json)
+- [pokemon.js](https://github.com/Jumori/pokemon-data/blob/main/src/data/pokemon.js)
+- [pokemon.json](https://github.com/Jumori/pokemon-data/blob/main/src/data/pokemon.json)
 
 
 # 🦸 Autora
