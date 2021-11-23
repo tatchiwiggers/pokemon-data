@@ -18,11 +18,6 @@
 
 <br>
 
-## 💻 Sobre o projeto
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A juntamente com o seu público, de uma forma muito organizada e democrática.
-
-Projeto realizado desenvolvido durante o **[Next Level Week Together](https://nextlevelweek.com/)** oferecido pela [Rocketseat](https://nextlevelweek.com/) e apresentada dos dias 20 a 27 de junho de 2021.
-
 ## 🎨 Layout
 
 O layout da aplicação está disponível no Figma:
