@@ -79,7 +79,7 @@ Features/características extras sugeridas:
 # ⚙️ **Considerações técnicas**
 
 - A lógica do projeto deve estar implementada completamente em JavaScript (ES6), HTML e CSS
-- Neste projeto NÃO está permitido usar bibliotecas ou frameworks, somente [vanilla JavaScript](https://medium.com/laboratoria-how-to/vanillajs-vs-jquery-31e623bbd46e), com exceção das bibliotecas para fazer gráficos (charts)
+- Neste projeto NÃO está permitido usar bibliotecas ou frameworks, somente vanilla JavaScript, com exceção das bibliotecas para fazer gráficos (charts)
 - Os dados a serem utilizados pelo frontend devem ser carregados de um arquivo JSON externo
 
 # 🔍 **Conteúdo de referência**
@@ -121,8 +121,8 @@ Features/características extras sugeridas:
 
 ## Pokémon Data
 
-- [pokemon.js](https://github.com/Jumori/pokemon-data/blob/main/src/data/pokemon.js)
-- [pokemon.json](https://github.com/Jumori/pokemon-data/blob/main/src/data/pokemon.json)
+- [pokemon.js](https://github.com/Jumori/pokemon-data/blob/main/data/pokemon.js)
+- [pokemon.json](https://github.com/Jumori/pokemon-data/blob/main/data/pokemon.json)
 
 
 # 🦸 Autora
