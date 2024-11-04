@@ -26,9 +26,9 @@ Neste projeto **você desenvolverá uma *página web* para visualizar um *co
 
 Como produto final você terá que criar uma página web que permita **visualizar os dados, filtrá-los, ordená-los e fazer algum cálculo agregado**. Como esclarecimento, ao falar de cálculo agregado, nos referimos a diferentes cálculos que se pode fazer com os dados e trazer informações ainda mais relevantes para o usuário. Uma opção seriam cálculos estatísticos com média, mínimo e máximo. Por exemplo, se temos uma coleção que representa um grupo de pessoas e cada pessoa está representada com um *objeto* com uma *propriedade* `altura`, poderíamos calcular a altura média em um grupo, entre outras coisas.
 
-# 🎯 **Objetivos de aprendizagem**
+# 🎯 **Objetivos do Projeto**
 
-O objetivo principal deste projeto é que você aprenda a desenvolver uma interface web onde se possa visualizar e manipular dados, entendendo o que o usuário necessita.
+O objetivo principal deste projeto é que você desenvolva uma interface web onde se possa visualizar e manipular dados, entendendo o que o usuário necessita.
 
 Falando com mais clareza, você irá:
 
@@ -141,3 +141,4 @@ Features/características extras sugeridas:
 Este projeto esta sob a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Juliana Morikoshi 👋 [Entre em contato!](https://www.linkedin.com/in/julianamorikoshi/)
+
