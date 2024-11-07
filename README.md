@@ -83,7 +83,7 @@ Neste projeto, você deverá implementar um pipeline de CI/CD (Integração Cont
 **2. Pipeline de CI/CD:**
 - **Construção:** Cada vez que você fizer um push para o repositório principal, o GitHub Actions irá construir a aplicação, instalando as dependências necessárias.
 - **Testes:** Em seguida, você executará os testes automatizados para garantir que o código esteja funcionando corretamente. Esses testes incluirão testes unitários e de integração.
-- **Implantação:** Após a passagem nos testes, a aplicação será implementada automaticamente em um ambiente de desenvolvimento ou produção, dependendo do branch em que você fez as alterações.
+- **Implantação:** No ambiente de desenvolvimento, execute todos os testes necessários em duas versões compatíveis da linguagem. Em seguida, no ambiente de homologação, faça a implantação do Docker e do Docker Compose, realizando os testes adequados, incluindo a configuração de variáveis de ambiente, antes de promover as alterações para o ambiente de produção.
 
 **3. Passos que você deverá seguir para implementação:**
 - Criar um arquivo de configuração para o GitHub Actions (ex: `.github/workflows/ci-cd.yml`) onde você definirá as etapas do pipeline.
