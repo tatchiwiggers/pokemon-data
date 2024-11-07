@@ -69,6 +69,34 @@ Logo após desenhar sua interface de usuário você deverá trabalhar em sua imp
 2. Permitir ao usuário filtrar e ordenar os dados.
 3. Calcular estatísticas como média aritmética, máximo e/ou mínimo de algum atributo numérico, ou contar quantas vezes aparece um determinado valor, por exemplo.
 
+---
+
+# Implementação de CI/CD
+
+Neste projeto, você deverá implementar um pipeline de CI/CD (Integração Contínua/Entrega Contínua) para garantir que as alterações no código sejam testadas e implantadas de forma eficiente. A integração contínua permitirá que suas alterações sejam verificadas automaticamente, enquanto a entrega contínua facilitará a implementação de novas versões da aplicação.
+
+**1. Ferramentas que você vai utilizar:**
+- **GitHub Actions:** Para automatizar o fluxo de trabalho de CI/CD.
+- **Node.js:** Para gerenciar as dependências do projeto e executar scripts de teste.
+- **Git:** Para controle de versão do código.
+
+**2. Pipeline de CI/CD:**
+- **Construção:** Cada vez que você fizer um push para o repositório principal, o GitHub Actions irá construir a aplicação, instalando as dependências necessárias.
+- **Testes:** Em seguida, você executará os testes automatizados para garantir que o código esteja funcionando corretamente. Esses testes incluirão testes unitários e de integração.
+- **Implantação:** Após a passagem nos testes, a aplicação será implementada automaticamente em um ambiente de desenvolvimento ou produção, dependendo do branch em que você fez as alterações.
+
+**3. Passos que você deverá seguir para implementação:**
+- Criar um arquivo de configuração para o GitHub Actions (ex: `.github/workflows/ci-cd.yml`) onde você definirá as etapas do pipeline.
+- Configurar scripts de teste em `package.json` para garantir que os testes relevantes sejam executados.
+- Estabelecer as credenciais e configurações necessárias para a implementação automática.
+
+**4. Benefícios esperados:**
+- **Automação:** Você vai reduzir o tempo gasto em tarefas manuais de teste e implantação.
+- **Consistência:** Você vai garantir que cada versão da aplicação seja testada e implantada com os mesmos critérios.
+- **Feedback Rápido:** Você vai possibilitar a detecção e corrição rápida de erros antes que eles cheguem ao ambiente de produção.
+
+---
+
 # 🏆 Desafio
 
 Features/características extras sugeridas:
